@@ -1,0 +1,16 @@
+#   Übersetzt von Grabenkind
+#   Bei Rechtschreibfehlern bitte kontaktieren
+#   Kontakt: grabenkind@gmail.com
+#   
+#   Dieses Plugin wird von Stellrow entwickelt!
+#   Alle Fehler die keine Rechtschreibfehler sind,
+#   müssen dem Entwickler selbst berichtet werden.
+
+Config:
+    PlaceMessage: '&cDu hast eine MobFarm platziert!'
+    BreakMessage: '&cDU hast eine MobFarm zerstört'
+    isCraftable: true
+    Name: '&4AutoMobFarm'
+    Lore:
+        - '&7Eine Auto Mob Farm, sie tötet Monster'
+        - '&7die sich darüber befinden!'
